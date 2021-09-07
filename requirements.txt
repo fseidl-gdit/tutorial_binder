@@ -1,1 +1,7 @@
 git+https://github.com/fseidl-gdit/tutorial_binder.git
+google-colab
+pandas_gbq
+pandas
+numpy
+seaborn
+google-cloud
