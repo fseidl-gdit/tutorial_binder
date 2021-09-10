@@ -1,6 +1,0 @@
-google-colab
-pandas_gbq
-pandas
-numpy
-seaborn
-google-cloud
